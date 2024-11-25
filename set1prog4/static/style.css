@@ -1,0 +1,41 @@
+h1{
+    background-color: aqua;
+    color: blue;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+
+}
+body
+{
+    background-color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+form
+{
+    margin: auto;
+    background-color: beige;
+    width: 50%;
+    padding: 10px;
+    
+    height: 50%;
+    
+}
+table{
+    margin: auto;
+}
+td{
+    padding: 10px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+    text-align: center;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
